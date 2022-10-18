@@ -7,7 +7,7 @@
  * @flags: argument flags
  * @params: paramater struct
  *
- * Return: string
+ * Return: strings
  */
 char *convert(long int num, int base, int flags, params_t *params)
 {
