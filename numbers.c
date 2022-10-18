@@ -27,7 +27,7 @@ int _strlen(char *s)
 }
 
 /**
- * print_number - prints a number with options
+ * print_number - prints a number with option
  * @str: the base number as a string
  * @params: the parameter struct
  *
